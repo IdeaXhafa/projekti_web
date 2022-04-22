@@ -1,0 +1,3 @@
+https://github.com/IdeaXhafa/projekti_web
+
+git clone path link: https://github.com/IdeaXhafa/projekti_web.git
